@@ -1,7 +1,7 @@
 # My Landing Page
 
 ## Public Access
-- **Public IP Address**: `http://3.249.107.26/`
+- **Public IP Address**: `http://3.254.137.6/`
 
 ## Steps Taken
 1. Provisioned a Linux server on AWS.
